@@ -1,4 +1,6 @@
 ### Hi there 👋, I'm Ilya!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+
 
 
 📚 I'm a passionate and dedicated student at TripleTen, where I'm pursuing my education as a software engineer. 🚀 I have a strong enthusiasm for learning and am excited about exploring the ever-evolving world of software development.
