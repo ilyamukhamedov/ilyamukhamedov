@@ -3,6 +3,10 @@
 
 📚 I'm a passionate and dedicated student at TripleTen, where I'm pursuing my education as a software engineer. 🚀 I have a strong enthusiasm for learning and am excited about exploring the ever-evolving world of software development.
 
+🧗‍♂️ Currently, I work as an industrial climber, a role that has given me a unique perspective on life. Scaling heights and tackling challenging environments make me feel like a real-life Spider-Man, but I've realized that my true passion lies in the world of technology.
+
+💼 I aspire to change my life and transition into the IT field, where I can leverage my software engineering skills to create innovative solutions and contribute to exciting projects.
+
 🌟 Every day, I strive to improve my skills, broaden my knowledge, and take on new challenges in the field of software engineering. My GitHub portfolio is a reflection of my journey, showcasing projects and contributions that represent my growth as a developer.
 
 👨‍💻 I believe that continuous learning and dedication are the keys to success in this profession, and I'm committed to pushing my boundaries to become the best software engineer I can be.
