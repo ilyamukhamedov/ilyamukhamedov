@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Ilya!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#ADFF2F&lines=Hi+there+👋+I'm+Ilya)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#ADFF2F&lines=Hi+there,+👋+I'm+Ilya)](https://git.io/typing-svg)
 
 
 
