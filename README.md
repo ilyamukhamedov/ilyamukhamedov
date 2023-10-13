@@ -15,7 +15,7 @@
 
 Let's code, learn, and grow together! 🚀
 
-🧀 Fun fact about me: I absolutely love cheese! 🧀 When I'm not coding, you might find me exploring local cheese shops or experimenting with new cheese recipes in the kitchen.
+🧀 Fun fact about me: I absolutely love cheese! When I'm not coding, you might find me exploring local cheese shops or experimenting with new cheese recipes in the kitchen.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
