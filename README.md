@@ -23,7 +23,7 @@ Let's code, learn, and grow together! 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/stargunner97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stargunner97" height="30" width="40" /></a>
+<a href="https://twitter.com/Kreker9_1_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stargunner97" height="30" width="40" /></a>
 <a href="https://instagram.com/kreker911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kreker911" height="30" width="40" /></a>
 </p>
 
