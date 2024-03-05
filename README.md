@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ilya!
 
 
-📚 I'm a student at TripleTen, where I'm pursuing my education as a software engineer. 🚀 I have a strong enthusiasm for learning and i am excited about exploring the ever-evolving world of software development.
+📚 I'm a graduate at TripleTen, where I'm pursuing my education as a software engineer. 🚀 I have a strong enthusiasm for learning and i am excited about exploring the ever-evolving world of software development.
 
 🧗‍♂️ Currently, I work as an industrial climber. This job has given me a unique perspective on life. Scaling heights and tackling challenging environments make me feel like a real-life Spider-Man, but I've realized that my true passion lies is tech.
 
