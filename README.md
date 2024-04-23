@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ilya!
 
 
-📚 I'm a graduate at TripleTen, where I'm pursuing my education as a software engineer. 🚀 I have a strong enthusiasm for learning and i am excited about exploring the ever-evolving world of software development.
+📚 I'm a graduate at TripleTen, where I'm pursuing my education as a Full Stack Developer. 🚀 I have a strong enthusiasm for learning and i am excited about exploring the ever-evolving world of software development.
 
 🧗‍♂️ Currently, I work as an industrial climber. This job has given me a unique perspective on life. Scaling heights and tackling challenging environments make me feel like a real-life Spider-Man, but I've realized that my true passion lies is tech.
 
@@ -15,7 +15,7 @@
 
 Let's code, learn, and grow together! 🚀
 
-🧀 Fun fact about me: I absolutely love cheese! When I'm not coding, you might find me exploring local cheese shops or experimenting with new cheese recipes in the kitchen.
+Fact about me: I'm deeply interested in cryptocurrency! When I'm not coding, you might find me researching the latest trends in the crypto market or exploring new blockchain projects and technologies.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -25,6 +25,8 @@ Let's code, learn, and grow together! 🚀
 <p align="left">
 <a href="https://twitter.com/Kreker9_1_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stargunner97" height="30" width="40" /></a>
 <a href="https://instagram.com/kreker911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kreker911" height="30" width="40" /></a>
+</p>
+<a href="https://www.linkedin.com/in/ilya-mukhamedov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kreker911" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
