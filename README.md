@@ -15,7 +15,7 @@
 
 Let's code, learn, and grow together! 🚀
 
-Fact about me: I'm deeply interested in cryptocurrency! When I'm not coding, you might find me researching the latest trends in the crypto market or exploring new blockchain projects and technologies.
+₿ Fact about me: I'm deeply interested in cryptocurrency! When I'm not coding, you might find me researching the latest trends in the crypto market or exploring new blockchain projects and technologies.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
