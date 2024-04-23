@@ -26,7 +26,7 @@ Let's code, learn, and grow together! 🚀
 <a href="https://twitter.com/Kreker9_1_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stargunner97" height="30" width="40" /></a>
 <a href="https://instagram.com/kreker911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kreker911" height="30" width="40" /></a>
 </p>
-<a href="https://www.linkedin.com/in/ilya-mukhamedov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kreker911" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ilya-mukhamedov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="kreker911" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
