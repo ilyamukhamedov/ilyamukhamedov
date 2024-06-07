@@ -22,7 +22,7 @@ Let's code, learn, and grow together! 🚀
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/Kreker9_1_1" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-1024.png" alt="kreker9_1_1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ilya-mukhamedov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilya-mukhamedov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ilya-mukhamedov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilya-mukhamedov" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
