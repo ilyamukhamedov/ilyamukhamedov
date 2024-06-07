@@ -21,7 +21,7 @@ Let's code, learn, and grow together! 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kreker9_1_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kreker9_1_1" height="30" width="40" /></a>
+<a href="https://x.com/Kreker9_1_1" target="blank"><img align="center" src="https://files.brandlogos.net/svg/Hv9NWCdaxf/x-twitter-logo-brandlogos.net_ql9mwdqgs.svg" alt="kreker9_1_1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ilya-mukhamedov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilya-mukhamedov" height="30" width="40" /></a>
 </p>
 
