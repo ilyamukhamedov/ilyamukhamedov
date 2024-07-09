@@ -3,11 +3,13 @@
 
 I graduated from TripleTen, where I pursued my education as a Full Stack Developer. 🚀 I have a strong enthusiasm for learning and am excited about exploring the ever-evolving world of software development
 
-Currently, I work as an industrial climber. This job has given me a unique perspective on life. Scaling heights and tackling challenging environments make me feel like a real-life Spider-Man, but I've realized that my true passion lies is tech.
+At the moment, I am developing landing custom websites for clients gaining experience in full-cycle development. In my daily routine i diving in React and progress my skills.
+
+Also, I work as an industrial climber. This job has given me a unique perspective on life. Scaling heights and tackling challenging environments make me feel like a real-life Spider-Man, but I've realized that my true passion is tech.
 
 I aspire to change my life and transition into the IT field, where I can leverage my software engineering skills to create innovative solutions and contribute to exciting projects.
 
-Feel free to contact me and join me on this exciting path of exploration and innovation.
+Feel free to cntact me and join me on this exciting path of exploration and innovation.
 
 Let's code, learn, and grow together! 
 
