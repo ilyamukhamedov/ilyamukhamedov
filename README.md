@@ -9,7 +9,7 @@ Also, I work as an industrial climber. This job has given me a unique perspectiv
 
 I aspire to change my life and transition into the IT field, where I can leverage my software engineering skills to create innovative solutions and contribute to exciting projects.
 
-Feel free to cntact me and join me on this exciting path of exploration and innovation.
+Feel free to contact me and join me on this exciting path of exploration and innovation.
 
 Let's code, learn, and grow together! 
 
