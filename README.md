@@ -5,13 +5,13 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5bb450&size=45&center=true&vCenter=true&width=1000&lines=Hi+There+👋;My+name+is+Ilya+Mukhamedov,;I'm+Full+Stack+Developer.)
 
   <hr/>
-  <img  width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyamukhamedov&theme=shadow-brown&border=55b040&border_radius=50&stroke=5bb450&sideLabels=5bb450&background=0D1117&ring=5bb450&fire=5bb450&currStreakLabel=5bb450" />
+  <img  width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyamukhamedov&theme=shadow-brown&border=55b040&border_radius=50&stroke=5bb450&sideLabels=5bb450&ring=5bb450&fire=5bb450&currStreakLabel=5bb450" />
    <hr/>
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ilyamukhamedov&theme=github-compact&hide_border=true&area=true&radius=7" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ilyamukhamedov&title_color=5bb450&theme=github-compact&hide_border=true&area=true&radius=7" />
     <hr/>
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=ilyamukhamedov&show_icons=true&count_private=true&hide_border=true&title_color=5bb450&icon_color=5bb450&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="44.79%" height="auto" src="https://github-readme-stats.vercel.app/api?username=ilyamukhamedov&show_icons=true&count_private=true&hide_border=true&title_color=5bb450&icon_color=5bb450&text_color=5bb450" />
 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyamukhamedov&layout=compact&hide_border=true&title_color=5bb450&text_color=5bb450&bg_color=0d1117" />
+  <img width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyamukhamedov&layout=compact&hide_border=true&title_color=5bb450&text_color=5bb450" />
   <hr/>
   
 <h3> My Skills </h3>
