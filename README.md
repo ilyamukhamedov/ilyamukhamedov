@@ -1,56 +1,40 @@
-### Hi there 👋, I'm Ilya!
+<div align="center">  
 
+<img width="1000" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=55b040&fontAlign=50&fontAlignY=50&textBg=false&descAlign=50&descAlignY=50"/>
 
-I graduated from TripleTen, where I pursued my education as a Full Stack Developer. 🚀 I have a strong enthusiasm for learning and am excited about exploring the ever-evolving world of software development
+<br />
 
-At the moment, I am developing landing custom websites for clients gaining experience in full-cycle development. In my daily routine i diving in React and progress my skills.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5bb450&size=45&center=true&vCenter=true&width=1000&lines=Hi+There+👋;My+name+is+Ilya+Mukhamedov,;I'm+Full+Stack+Developer.)
 
-Also, I work as an industrial climber. This job has given me a unique perspective on life. Scaling heights and tackling challenging environments make me feel like a real-life Spider-Man, but I've realized that my true passion is tech.
+<br />
 
-I aspire to change my life and transition into the IT field, where I can leverage my software engineering skills to create innovative solutions and contribute to exciting projects.
+ 
+  <hr/>
+  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyamukhamedov&theme=shadow-brown&border=55b040&border_radius=50&stroke=5bb450&sideLabels=5bb450&background=0D1117&ring=5bb450&fire=5bb450&currStreakLabel=5bb450" />
+   <hr/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ilyamukhamedov&theme=github-compact&hide_border=true&area=true&radius=7" />
+    <hr/>
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=ilyamukhamedov&show_icons=true&count_private=true&hide_border=true&title_color=5bb450&icon_color=5bb450&text_color=c9d1d9&bg_color=0d1117" />
 
-Feel free to contact me and join me on this exciting path of exploration and innovation.
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyamukhamedov&layout=compact&hide_border=true&title_color=5bb450&text_color=5bb450&bg_color=0d1117" />
+  <hr/>
 
-Let's code, learn, and grow together! 
+  <br />
+  
+<h3> My Skills </h3>
 
-₿ Fact about me: I'm deeply interested in cryptocurrency! When I'm not coding, you might find me researching the latest trends in the crypto market or exploring new blockchain projects and technologies.
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,babel,mongodb,git,github,nextjs,nginx,npm,postman,redux,ts,vscode,vite,webpack,blender,discord,figma,ai,materialui,notion,ps,pr&perline=6)](https://skillicons.dev)
 
+  <br />
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ilya-mukhamedov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilya-mukhamedov" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
+  <h3> Contacts </h3>
+  <a href="https://ilya-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+  <a href="mailto:honeyflym@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ilyamukhamedov/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <br />
+  <a href="https://telegram.me/kreker911" target="_blank"><img src="https://img.shields.io/badge/telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://wa.me/+79959033572" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  
+  <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=55b040&fontAlign=50&fontAlignY=50&textBg=false&descAlign=50&descAlignY=50&section=footer"/>
+  
 </div>
-
-
