@@ -2,11 +2,11 @@
 
 <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=55b040&fontAlign=50&fontAlignY=50&textBg=false&descAlign=50&descAlignY=50"/>
 
-<br />
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5bb450&size=45&center=true&vCenter=true&width=1000&lines=Hi+There+👋;My+name+is+Ilya+Mukhamedov,;I'm+Full+Stack+Developer.)
 
-<br />
+
 
  
   <hr/>
@@ -18,8 +18,6 @@
 
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyamukhamedov&layout=compact&hide_border=true&title_color=5bb450&text_color=5bb450&bg_color=0d1117" />
   <hr/>
-
-  <br />
   
 <h3> My Skills </h3>
 
