@@ -9,9 +9,9 @@
    <hr/>
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ilyamukhamedov&title_color=5bb450&theme=github-compact&hide_border=true&area=true&radius=7" />
     <hr/>
-  <img width="44.79%" height="auto" src="https://github-readme-stats.vercel.app/api?username=ilyamukhamedov&show_icons=true&count_private=true&hide_border=true&title_color=5bb450&icon_color=5bb450&text_color=5bb450" />
+  <img width="44.79%" height="auto" src="https://github-readme-stats.vercel.app/api?username=ilyamukhamedov&show_icons=true&count_private=true&hide_border=true&title_color=5bb450&icon_color=5bb450&text_color=5bb450&bg_color=0d1117" />
 
-  <img width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyamukhamedov&layout=compact&hide_border=true&title_color=5bb450&text_color=5bb450" />
+  <img width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyamukhamedov&layout=compact&hide_border=true&title_color=5bb450&text_color=5bb450&bg_color=0d1117" />
   <hr/>
   
 <h3> My Skills </h3>
