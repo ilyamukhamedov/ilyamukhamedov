@@ -16,7 +16,7 @@
   
 <h3> My Skills </h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,babel,mongodb,git,github,nextjs,nginx,npm,postman,redux,ts,vscode,vite,webpack,blender,discord,figma,ai,materialui,notion,ps,pr&perline=6)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,babel,vercel,mongodb,git,github,nextjs,nginx,npm,postman,redux,ts,vscode,vite,webpack,blender,discord,figma,ai,materialui,notion,ps,pr&perline=6)](https://skillicons.dev)
 
   <br />
 
