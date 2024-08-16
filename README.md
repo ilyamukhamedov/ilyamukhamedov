@@ -2,15 +2,10 @@
 
 <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=55b040&fontAlign=50&fontAlignY=50&textBg=false&descAlign=50&descAlignY=50"/>
 
-
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5bb450&size=45&center=true&vCenter=true&width=1000&lines=Hi+There+👋;My+name+is+Ilya+Mukhamedov,;I'm+Full+Stack+Developer.)
 
-
-
- 
   <hr/>
-  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyamukhamedov&theme=shadow-brown&border=55b040&border_radius=50&stroke=5bb450&sideLabels=5bb450&background=0D1117&ring=5bb450&fire=5bb450&currStreakLabel=5bb450" />
+  <img  width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyamukhamedov&theme=shadow-brown&border=55b040&border_radius=50&stroke=5bb450&sideLabels=5bb450&background=0D1117&ring=5bb450&fire=5bb450&currStreakLabel=5bb450" />
    <hr/>
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ilyamukhamedov&theme=github-compact&hide_border=true&area=true&radius=7" />
     <hr/>
@@ -32,6 +27,11 @@
   <br />
   <a href="https://telegram.me/kreker911" target="_blank"><img src="https://img.shields.io/badge/telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://wa.me/+79959033572" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+ <br />
+  <br />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Walking+on+water+and+developing+software+from+a+specification+are+easy+if+both+are+frozen.&author=Edward+V.+Berard" />
   
   <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=55b040&fontAlign=50&fontAlignY=50&textBg=false&descAlign=50&descAlignY=50&section=footer"/>
   
