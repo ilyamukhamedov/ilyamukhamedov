@@ -29,7 +29,6 @@
   <a href="https://wa.me/+79959033572" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
  <br />
-  <br />
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Walking+on+water+and+developing+software+from+a+specification+are+easy+if+both+are+frozen.&author=Edward+V.+Berard" />
   
