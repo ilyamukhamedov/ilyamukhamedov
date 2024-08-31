@@ -18,7 +18,6 @@
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,babel,vercel,mongodb,git,github,nextjs,nginx,npm,postman,redux,ts,vscode,vite,webpack,blender,discord,figma,ai,materialui,notion,ps,pr&perline=6)](https://skillicons.dev)
 
-  <br />
 
   <h3> Contacts </h3>
   <a href="https://ilya-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
@@ -28,6 +27,7 @@
   <a href="https://telegram.me/kreker911" target="_blank"><img src="https://img.shields.io/badge/telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://wa.me/+79959033572" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
+ <br />
  <br />
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Walking+on+water+and+developing+software+from+a+specification+are+easy+if+both+are+frozen.&author=Edward+V.+Berard" />
